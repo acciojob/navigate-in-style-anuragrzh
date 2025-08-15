@@ -1,8 +1,11 @@
 nav{
 	background-color:#D3D3D3;
-	display:inline;
+	
 	padding:10px;
+	
+	
+}li{
+	display:inline;
 	margin-right:1rem;
 	list-style:none;
-	
 }
